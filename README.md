@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhengkaluo
 - 👀 I’m interested in Game Developing
-- 🌱 I’m currently learning Computer Graphics
+- 🌱 I’m currently learning Computer Graphics, building my game engine
 - 💞️ I’m looking for a job at game industry
 - 📫 How to reach me zhenghaolan2000@163.com
 
